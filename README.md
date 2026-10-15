@@ -1,3 +1,5 @@
+Test it now: https://desdes-gfmhom6pl-bibos-projects-aa1e5cef.vercel.app/
+
 # Dice Forge 🎲
 
 > A stylish, browser-based dice roller for forging your destiny.
